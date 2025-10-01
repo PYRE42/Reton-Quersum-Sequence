@@ -17,8 +17,7 @@ it will always go into 1 of 3 loops:
 
 I used my terrible coding skills to make a basic demo for this.
 
-unsuprisingly it all depends on mod
-
-mod 3 = 0 → loop 1
-mod 3 = 1 → loop 2
-mod 3 = 2 → loop 3
+unsuprisingly it all depends on mod:
+1. mod 3 = 0 → loop 1
+2. mod 3 = 1 → loop 2
+3. mod 3 = 2 → loop 3
